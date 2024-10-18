@@ -1,12 +1,12 @@
 "use strict";
 
 const images = [
-  { id: "1", url: "./img/chrono.jpg" },
-  { id: "2", url: "./img/inuyasha.jpg" },
-  { id: "3", url: "./img/ippo.png" },
-  { id: "4", url: "./img/tenchi.jpg" },
-  { id: "5", url: "./img/tenjhotenge.jpg" },
-  { id: "6", url: "./img/yuyuhakusho.jpg" },
+  { id: "1", url: "./img/um.jpg" },
+  { id: "2", url: "./img/dois.jpg" },
+  { id: "3", url: "./img/tres.jpg" },
+  { id: "4", url: "./img/quatro.jpg" },
+  { id: "5", url: "./img/cinco.jpg" },
+  { id: "6", url: "./img/seis.jpg" },
 ];
 
 const containerItems = document.querySelector("#container-items");
